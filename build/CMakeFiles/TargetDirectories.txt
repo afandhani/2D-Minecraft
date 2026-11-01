@@ -1,0 +1,11 @@
+/home/alucard/Projects/Personal/Minecraft2D/build/CMakeFiles/Minecraft2D.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/CMakeFiles/edit_cache.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/CMakeFiles/rebuild_cache.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL/CMakeFiles/SDL3-shared.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL/CMakeFiles/SDL3_test.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL/CMakeFiles/SDL_uclibc.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL/CMakeFiles/edit_cache.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL/CMakeFiles/rebuild_cache.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL_image/CMakeFiles/SDL3_image-shared.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL_image/CMakeFiles/edit_cache.dir
+/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL_image/CMakeFiles/rebuild_cache.dir

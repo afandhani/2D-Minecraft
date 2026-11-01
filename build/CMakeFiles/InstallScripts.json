@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alucard/Projects/Personal/Minecraft2D/build/cmake_install.cmake",
+		"/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL/cmake_install.cmake",
+		"/home/alucard/Projects/Personal/Minecraft2D/build/vendor/SDL_image/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
